@@ -16,4 +16,4 @@ Sliding Puzzle is a classic logic game where the goal is to arrange a picture by
 <img align="left" src="https://github.com/David-Mastalski/Sliding-Puzzle-Game/blob/main/demo/demo1.png" alt="Sliding-Puzzle-Game Demo" width="50%">
 <img align="right" src="https://github.com/David-Mastalski/Sliding-Puzzle-Game/blob/main/demo/demo2.png" alt="Sliding-Puzzle-Game Demo" width="50%">
 
-### You can test the game yourself: [Click Here](https://david-mastalski.github.io/Sliding-Puzzle-Game/)
+
