@@ -10,10 +10,10 @@ Sliding Puzzle is a classic logic game where the goal is to arrange a picture by
 
 ## How to start playing? 
 - _**Download code:**_
-  - Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Rock-Paper-Scissors-Game.git
+  - Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Sliding-Puzzle-Game.git
  
  ## Demo from Sliding Puzzle Game
-<img align="left" src="https://github.com/David-Mastalski/Sliding-Puzzle-Game/blob/main/demo/demo1.png" alt="Sliding-Puzzle-Game Demo" width="50%">
-<img align="right" src="https://github.com/David-Mastalski/Sliding-Puzzle-Game/blob/main/demo/demo2.png" alt="Sliding-Puzzle-Game Demo" width="50%">
+<img src="https://github.com/David-Mastalski/Sliding-Puzzle-Game/blob/main/demo/demo1.png" alt="Sliding-Puzzle-Game Demo" width="100%">
+<img src="https://github.com/David-Mastalski/Sliding-Puzzle-Game/blob/main/demo/demo2.png" alt="Sliding-Puzzle-Game Demo" width="100%">
 
-
+### You can test the game yourself: [Click Here](https://david-mastalski.github.io/Sliding-Puzzle-Game/)
