@@ -30,9 +30,10 @@ body,
 }
 
 .tile{
-    background: url(bmw4-300x300.png);
+    background: url('./bmw2002.png');
     border: 1px solid white;
     color: transparent;
+    cursor: pointer;
     font-size: 30px;
     height: 100px;
     width: 100px;
